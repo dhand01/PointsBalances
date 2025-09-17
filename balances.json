@@ -2,8 +2,8 @@
   {
     "program": "Chase Ultimate Rewards",
     "type": "Credit Card",
-    "dh": 416980,
-    "bg": 181240
+    "dh": 0,
+    "bg": 0
   },
   {
     "program": "Citi Thankyou Points",
@@ -14,20 +14,20 @@
   {
     "program": "BILT Rewards",
     "type": "Credit Card",
-    "dh": 943,
-    "bg": 830
+    "dh": 0,
+    "bg": 0
   },
   {
     "program": "CapitalOne",
     "type": "Credit Card",
-    "dh": 292432,
-    "bg": 249313
+    "dh": 0,
+    "bg": 0
   },
   {
     "program": "AMEX Membership Rewards",
     "type": "Credit Card",
-    "dh": 414012,
-    "bg": 58499
+    "dh": 0,
+    "bg": 0
   },
   {
     "program": "Wells Fargo",
@@ -38,55 +38,55 @@
   {
     "program": "United MileagePlus",
     "type": "Airline",
-    "dh": 151442,
-    "bg": 16521
+    "dh": 0,
+    "bg": 0
   },
   {
     "program": "Delta SkyMiles",
     "type": "Airline",
-    "dh": 5051,
-    "bg": 8353
+    "dh": 0,
+    "bg": 0
   },
   {
     "program": "American AAdvantage",
     "type": "Airline",
-    "dh": 27264,
-    "bg": 54994
+    "dh": 0,
+    "bg": 0
   },
   {
     "program": "Southwest Rapid Rewards",
     "type": "Airline",
-    "dh": 6506,
-    "bg": 15504
+    "dh": 0,
+    "bg": 0
   },
   {
     "program": "Alaska Mileage Plan",
     "type": "Airline",
-    "dh": 141560,
-    "bg": 46
+    "dh": 0,
+    "bg": 0
   },
   {
     "program": "JetBlue TrueBlue",
     "type": "Airline",
-    "dh": 2866,
-    "bg": 2866
+    "dh": 0,
+    "bg": 0
   },
   {
     "program": "HawaiianMiles",
     "type": "Airline",
-    "dh": 26,
-    "bg": 5
+    "dh": 0,
+    "bg": 0
   },
   {
     "program": "BA Executive Club Avios",
     "type": "Airline",
-    "dh": 360817,
+    "dh": 0,
     "bg": 0
   },
   {
     "program": "Iberia Avios",
     "type": "Airline",
-    "dh": 101,
+    "dh": 0,
     "bg": 0
   },
   {
@@ -98,25 +98,25 @@
   {
     "program": "Virgin Atlantic Flying Club",
     "type": "Airline",
-    "dh": 312600,
+    "dh": 0,
     "bg": 0
   },
   {
     "program": "AirFrance FlyingBlue",
     "type": "Airline",
-    "dh": 44777,
+    "dh": 0,
     "bg": 0
   },
   {
     "program": "AirCanada Aeroplan",
     "type": "Airline",
-    "dh": 30600,
+    "dh": 0,
     "bg": 0
   },
   {
     "program": "Avianca LifeMiles",
     "type": "Airline",
-    "dh": 775,
+    "dh": 0,
     "bg": 0
   },
   {
@@ -188,7 +188,7 @@
   {
     "program": "TAP Portugal Miles&Go",
     "type": "Airline",
-    "dh": 200,
+    "dh": 0,
     "bg": 0
   },
   {
@@ -200,25 +200,25 @@
   {
     "program": "Qatar Privilege Club (Avios)",
     "type": "Airline",
-    "dh": 100,
+    "dh": 0,
     "bg": 0
   },
   {
     "program": "Spirit",
     "type": "Airline",
-    "dh": 6506,
+    "dh": 0,
     "bg": 0
   },
   {
     "program": "World of Hyatt",
     "type": "Hotel",
-    "dh": 35765,
+    "dh": 0,
     "bg": 0
   },
   {
     "program": "Marriott Bonvoy",
     "type": "Hotel",
-    "dh": 200294,
+    "dh": 0,
     "bg": 0
   },
   {
@@ -230,13 +230,13 @@
   {
     "program": "IHG Rewards",
     "type": "Hotel",
-    "dh": 137389,
+    "dh": 0,
     "bg": 0
   },
   {
     "program": "Hilton Honors",
     "type": "Hotel",
-    "dh": 11308,
+    "dh": 0,
     "bg": 0
   },
   {
