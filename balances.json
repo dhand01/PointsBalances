@@ -1,1 +1,248 @@
-
+[
+  {
+    "program": "Chase Ultimate Rewards",
+    "type": "Credit Card",
+    "dh": 0,
+    "bg": 0
+  },
+  {
+    "program": "Citi Thankyou Points",
+    "type": "Credit Card",
+    "dh": 0,
+    "bg": 0
+  },
+  {
+    "program": "BILT Rewards",
+    "type": "Credit Card",
+    "dh": 0,
+    "bg": 0
+  },
+  {
+    "program": "CapitalOne",
+    "type": "Credit Card",
+    "dh": 0,
+    "bg": 0
+  },
+  {
+    "program": "AMEX Membership Rewards",
+    "type": "Credit Card",
+    "dh": 0,
+    "bg": 0
+  },
+  {
+    "program": "Wells Fargo",
+    "type": "Credit Card",
+    "dh": 0,
+    "bg": 0
+  },
+  {
+    "program": "United MileagePlus",
+    "type": "Airline",
+    "dh": 0,
+    "bg": 0
+  },
+  {
+    "program": "Delta SkyMiles",
+    "type": "Airline",
+    "dh": 0,
+    "bg": 0
+  },
+  {
+    "program": "American AAdvantage",
+    "type": "Airline",
+    "dh": 0,
+    "bg": 0
+  },
+  {
+    "program": "Southwest Rapid Rewards",
+    "type": "Airline",
+    "dh": 0,
+    "bg": 0
+  },
+  {
+    "program": "Alaska Mileage Plan",
+    "type": "Airline",
+    "dh": 0,
+    "bg": 0
+  },
+  {
+    "program": "JetBlue TrueBlue",
+    "type": "Airline",
+    "dh": 0,
+    "bg": 0
+  },
+  {
+    "program": "HawaiianMiles",
+    "type": "Airline",
+    "dh": 0,
+    "bg": 0
+  },
+  {
+    "program": "BA Executive Club Avios",
+    "type": "Airline",
+    "dh": 0,
+    "bg": 0
+  },
+  {
+    "program": "Iberia Avios",
+    "type": "Airline",
+    "dh": 0,
+    "bg": 0
+  },
+  {
+    "program": "AerLingus Avios",
+    "type": "Airline",
+    "dh": 0,
+    "bg": 0
+  },
+  {
+    "program": "Virgin Atlantic Flying Club",
+    "type": "Airline",
+    "dh": 0,
+    "bg": 0
+  },
+  {
+    "program": "AirFrance FlyingBlue",
+    "type": "Airline",
+    "dh": 0,
+    "bg": 0
+  },
+  {
+    "program": "AirCanada Aeroplan",
+    "type": "Airline",
+    "dh": 0,
+    "bg": 0
+  },
+  {
+    "program": "Avianca LifeMiles",
+    "type": "Airline",
+    "dh": 0,
+    "bg": 0
+  },
+  {
+    "program": "ANA MileageClub",
+    "type": "Airline",
+    "dh": 0,
+    "bg": 0
+  },
+  {
+    "program": "JAL MileageBank",
+    "type": "Airline",
+    "dh": 0,
+    "bg": 0
+  },
+  {
+    "program": "AeroMexico Club Premier",
+    "type": "Airline",
+    "dh": 0,
+    "bg": 0
+  },
+  {
+    "program": "Singapore KrisFlyer",
+    "type": "Airline",
+    "dh": 0,
+    "bg": 0
+  },
+  {
+    "program": "Swiss Miles&More",
+    "type": "Airline",
+    "dh": 0,
+    "bg": 0
+  },
+  {
+    "program": "Qantas FrequentFlyer",
+    "type": "Airline",
+    "dh": 0,
+    "bg": 0
+  },
+  {
+    "program": "Emirates Skywards",
+    "type": "Airline",
+    "dh": 0,
+    "bg": 0
+  },
+  {
+    "program": "Cathay AsiaMiles",
+    "type": "Airline",
+    "dh": 0,
+    "bg": 0
+  },
+  {
+    "program": "Etihad Guest",
+    "type": "Airline",
+    "dh": 0,
+    "bg": 0
+  },
+  {
+    "program": "Finnair Plus",
+    "type": "Airline",
+    "dh": 0,
+    "bg": 0
+  },
+  {
+    "program": "SAS EuroBonus",
+    "type": "Airline",
+    "dh": 0,
+    "bg": 0
+  },
+  {
+    "program": "TAP Portugal Miles&Go",
+    "type": "Airline",
+    "dh": 0,
+    "bg": 0
+  },
+  {
+    "program": "Turkish Airlines Miles&Smiles",
+    "type": "Airline",
+    "dh": 0,
+    "bg": 0
+  },
+  {
+    "program": "Qatar Privilege Club (Avios)",
+    "type": "Airline",
+    "dh": 0,
+    "bg": 0
+  },
+  {
+    "program": "Spirit",
+    "type": "Airline",
+    "dh": 0,
+    "bg": 0
+  },
+  {
+    "program": "World of Hyatt",
+    "type": "Hotel",
+    "dh": 0,
+    "bg": 0
+  },
+  {
+    "program": "Marriott Bonvoy",
+    "type": "Hotel",
+    "dh": 0,
+    "bg": 0
+  },
+  {
+    "program": "Accor ALL",
+    "type": "Hotel",
+    "dh": 0,
+    "bg": 0
+  },
+  {
+    "program": "IHG Rewards",
+    "type": "Hotel",
+    "dh": 0,
+    "bg": 0
+  },
+  {
+    "program": "Hilton Honors",
+    "type": "Hotel",
+    "dh": 0,
+    "bg": 0
+  },
+  {
+    "program": "NH Discovery",
+    "type": "Hotel",
+    "dh": 0,
+    "bg": 0
+  }
+]
